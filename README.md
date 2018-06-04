@@ -1,2 +1,2 @@
 # kanhiyak
-A java ,spring framework workspace
+A java , spring framework tutorial workspace
